@@ -1,1 +1,0 @@
-vless://50e2a82b-06c8-453e-b17a-b304a277434c@195.201.46.160:8443/?type=grpc&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=11#SHERVIN%F0%9F%87%A9%F0%9F%87%AA
